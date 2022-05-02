@@ -113,8 +113,8 @@ or skill level.
     </details>
     <details>
         <summary><b>🏆 Github Achievements</b></summary>
-        <p align="center"> <a href="https://github.com/aarti-lather"><img
-                    src="https://github-profile-trophy.vercel.app/?username=aarti-lather&margin-w=5&theme=radical"
-                    alt="Aarti Lather" /></a></p>
+        <p align="center"> <a href="https://github.com/Aman-PalSingh"><img
+                    src="https://github-profile-trophy.vercel.app/?username=Aman-PalSingh&margin-w=5&theme=radical"
+                    alt="Aman Pal Singh" /></a></p>
     </details>
 <hr>
