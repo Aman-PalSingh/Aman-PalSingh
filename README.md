@@ -111,11 +111,21 @@ or skill level.
                 src="https://activity-graph.herokuapp.com/graph?username=Aman-PalSingh&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a>
         </p>
     </details>
-    <details>
+    <!-- <details>
         <summary><b>🏆 Github Achievements</b></summary>
         <p align="center"> <a href="https://github.com/Aman-PalSingh"><img
                     src="https://github-profile-trophy.vercel.app/?username=Aman-PalSinghh&margin-w=5&theme=radical"
                     alt="Aman Pal Singh" /></a></p>
+                    <details>    -->
+                        <details>
+                            <summary><b>🏆 Github Achievements</b></summary>
+                            <p align="center"> <a href="https://github.com/aarti-lather"><img
+                                        src="https://github-profile-trophy.vercel.app/?username=aarti-lather&margin-w=5&theme=radical"
+                                        alt="Aarti Lather" /></a></p>
+                        </details>
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/aarti-lather"><img src="https://github-profile-trophy.vercel.app/?username=aarti-lather&margin-w=5&theme=radical" alt="Aarti Lather" /></a></p>
+ </details>
     </details>
 
 
