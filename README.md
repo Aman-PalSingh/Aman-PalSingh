@@ -1,3 +1,4 @@
+### Hi there 👋
 
 <!--
 **Aman-PalSingh/Aman-PalSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Developer;Self%20taught%20Programmer&center=true&width=500&height=50">
+        src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
 
 
@@ -50,7 +51,7 @@ set.
 - 🤔 I’m looking for help with developing AI skills..
 <!-- - 💬 Ask me about any MERN related stuff. -->
 - 📫 How to reach me amanpalsingh777@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: she/Her
 <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
 <br>
 
@@ -85,7 +86,7 @@ set.
 <a href="https://github.com/Aman-PalSingh/github-readme-stats"><img alt="Aman's Github Stats"
         src="https://github-readme-stats.vercel.app/api?username=Aman-PalSingh&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
 </br>
-<a href="https://github.com/Aman-PalSingh/github-readme-stats"><img alt="aarti-lather's Top Languages"
+<a href="https://github.com/Aman-PalSingh/github-readme-stats"><img alt="Aman Pal Singh's Top Languages"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-PalSingh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br />
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
@@ -98,7 +99,7 @@ or skill level.
     <summary><b>🔎 Github Profile Details</b></summary>
     <p align="center"><img height="180em"
             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-PalSingh&theme=github_dark"
-            alt="aarti-lather" align="center" /></p>
+            alt="Aman Pal Singh" align="center" /></p>
 </details>
 <details>
     <!--  <summary><b>🔥 Github Streaks</b></summary>
