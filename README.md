@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Aman-PalSingh/Aman-PalSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Developer;Self%20taught%20Programmer&center=true&width=500&height=50">
+        src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Developer;Curious%20Problem%20Solver&center=true&width=500&height=50">
 </p>
 
 
@@ -33,7 +32,6 @@ Here are some ideas to get you started:
 
 
 <br />
-
 <br />
 
 
@@ -74,15 +72,8 @@ set.
 </p>
 
 <br />
-<br />
-<br />
-<br />
-<br />
 
 ## 📊 My Github Stats
-
-
-<br />
 <a href="https://github.com/Aman-PalSingh/github-readme-stats"><img alt="Aman's Github Stats"
         src="https://github-readme-stats.vercel.app/api?username=Aman-PalSingh&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
 </br>
@@ -92,7 +83,7 @@ set.
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
 or skill level.
 
-<br>
+<br />
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 <details>
