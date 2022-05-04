@@ -51,7 +51,7 @@ set.
 - 🤔 I’m looking for help with developing AI skills..
 <!-- - 💬 Ask me about any MERN related stuff. -->
 - 📫 How to reach me amanpalsingh777@gmail.com
-- 😄 Pronouns: she/Her
+- 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
 <br>
 
