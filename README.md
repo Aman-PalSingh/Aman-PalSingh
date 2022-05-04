@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
+        src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Developer;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
 
 
