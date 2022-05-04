@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
+        src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Developer;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
 
 
@@ -59,13 +59,13 @@ set.
 <img align="right" alt="GIF" clear="both"
     src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" width="400" height="250" />
 <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5" />
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" />
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" />
-    <img src="https://i.ibb.co/xfHMmbP/icons8-mysql-logo-48.png" alt="MySql" width="60" height="60" />
-    <img src="https://i.ibb.co/dP5zfdY/icons8-java-64.png" alt="icons8-java-64" alt="Java" />
-    <img src="https://i.ibb.co/Jt5kpWr/icons8-spring-logo-48.png" alt="spring" width="48" height="48" />
-    <img src="https://i.ibb.co/pwqXvQc/cli1.png" alt="CLI" width="43" height="43" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50 px" style="padding:30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50 px" style="padding:30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50 px" style="padding:30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50 px" style="padding:30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50 px" style="padding:50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50 px" style="padding:30px" />
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" height="50 px" style="padding:30px"/>
     <!--     <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="48" height="48"/> -->
     <!--     <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"/>    -->
     <!--     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/> -->
@@ -117,4 +117,4 @@ or skill level.
                     src="https://github-profile-trophy.vercel.app/?username=Aman-PalSingh&margin-w=5&theme=radical"
                     alt="Aman Pal Singh" /></a></p>
     </details>
-<hr>
+    <hr>
