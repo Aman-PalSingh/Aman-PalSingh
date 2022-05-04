@@ -101,13 +101,13 @@ or skill level.
     <details>
         <summary><b>📊 Github Contribution Graph</b></summary>
         <p align="center" <a href="#"><img alt="Aman Pal Singh's Activity Graph"
-                src="https://activity-graph.herokuapp.com/graph?username=Aman-PalSingh&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a>
+                src="https://activity-graph.herokuapp.com/graph?username=Aman-PalSingh&bg_color=fff0d9&color=000000&line=000000&point=800000&hide_border=true&" /></a>
         </p>
     </details>
     <details>
         <summary><b>🏆 Github Achievements</b></summary>
         <p align="center"> <a href="https://github.com/Aman-PalSingh"><img
-                    src="https://github-profile-trophy.vercel.app/?username=Aman-PalSingh&margin-w=5&theme=radical"
+                    src="https://github-profile-trophy.vercel.app/?username=Aman-PalSingh&margin-w=5&theme=Tactile"
                     alt="Aman Pal Singh" /></a></p>
     </details>
     <hr>
