@@ -25,18 +25,20 @@ Here are some ideas to get you started:
 </p>
 
 
-<a href="https://www.linkedin.com/in/amanpal-singh/">
-    <img align="left" alt="Aman Pal Singh LinkedIn Profile" width="40px"
-        src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
-<br />
-<br />
+<h3 align="left" >Connect with me:</h3>
+<br/>
+<p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
+<a href="https://www.linkedin.com/in/amanpal-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jay-sanodiya" height="40" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100002547409428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jay sanodiya" height="40" width="50" /></a>
+<a href="https://www.instagram.com/aman__pal__singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman__pal__singh" height="40" width="50" /></a>
+<a href="https://medium.com/@amanpalsingh777" target="blank"><img align="center" src="https://www.freedomforuminstitute.org/wp-content/uploads/2016/10/medium-icon.png" alt="@amanpalsingh777" height="40" width="40" /></a>
+<a href="https://leetcode.com/amanpalsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanpalsingh" height="40" width="50" /></a>
+</p>
+<br/>
 
 
 ## About Me
-<img align='right' src="https://i.pinimg.com/originals/a8/16/84/a816844695fa49287a0d3460378669f6.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400">
 <b style="font-weight:bold">Enthusiastic</b> and <b style="font-weight:bold">challenge-driven</b> graduate from Masai
 School specializing in full-stack web development. Skilled in <b style="font-weight:bold">Java, HTML, CSS,
     JavaScript.</b> Looking forward to an exciting opportunity to work at a growing organization to enhance the skill
@@ -55,7 +57,7 @@ set.
 
 ## 🚀 Languages and Tools:
 <img align="right" alt="GIF" clear="both"
-    src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" width="400" height="250" />
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" height="250" />
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50 px" style="padding:30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50 px" style="padding:30px" />
