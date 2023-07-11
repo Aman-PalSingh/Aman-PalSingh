@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <h3 align="left" >Connect with me:</h3>
 <br/>
 <p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
-<a href="https://www.linkedin.com/in/amanpal-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jay-sanodiya" height="40" width="50" /></a>
-<a href="https://www.facebook.com/profile.php?id=100002547409428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jay sanodiya" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/amanpal-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/" height="40" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100002547409428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aman Pal Singh" height="40" width="50" /></a>
 <a href="https://www.instagram.com/aman__pal__singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman__pal__singh" height="40" width="50" /></a>
 <a href="https://medium.com/@amanpalsingh777" target="blank"><img align="center" src="https://www.freedomforuminstitute.org/wp-content/uploads/2016/10/medium-icon.png" alt="@amanpalsingh777" height="40" width="40" /></a>
 <a href="https://leetcode.com/amanpalsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanpalsingh" height="40" width="50" /></a>
@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 
 ## About Me
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400">
-<b style="font-weight:bold">Enthusiastic</b> and <b style="font-weight:bold">challenge-driven</b> graduate from Masai
-School specializing in full-stack web development. Skilled in <b style="font-weight:bold">Java, HTML, CSS,
+<b style="font-weight:bold">Enthusiastic</b> and <b style="font-weight:bold">challenge-driven</b>specializing in full-stack web development. Skilled in <b style="font-weight:bold">Java, HTML, CSS,
     JavaScript.</b> Looking forward to an exciting opportunity to work at a growing organization to enhance the skill
 set.
 
