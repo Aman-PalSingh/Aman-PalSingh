@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## About Me
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400">
-<b style="font-weight:bold">Enthusiastic</b> and <b style="font-weight:bold">challenge-driven</b>specializing in full-stack web development. Skilled in <b style="font-weight:bold">Java, HTML, CSS,
+<b style="font-weight:bold">Enthusiastic </b> and <b style="font-weight:bold">challenge-driven</b>specializing in full-stack web development. Skilled in <b style="font-weight:bold">Java, HTML, CSS,
     JavaScript.</b> Looking forward to an exciting opportunity to work at a growing organization to enhance the skill
 set.
 
