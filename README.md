@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/amanpal-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/" height="40" width="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=100002547409428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aman Pal Singh" height="40" width="50" /></a>
 <a href="https://www.instagram.com/aman__pal__singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman__pal__singh" height="40" width="50" /></a>
-<a href="https://medium.com/@amanpalsingh777" target="blank"><img align="center" src="https://www.freedomforuminstitute.org/wp-content/uploads/2016/10/medium-icon.png" alt="@amanpalsingh777" height="40" width="40" /></a>
+<a href="https://medium.com/@amanpalsingh777" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-round-icon.png" alt="@amanpalsingh777" height="40" width="40" /></a>
 <a href="https://leetcode.com/amanpalsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanpalsingh" height="40" width="50" /></a>
 </p>
 <br/>
